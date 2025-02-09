@@ -40,12 +40,43 @@ Passionate about **enhancing software quality** and collaborating with developer
 
 ---
 
-## 🛠 Skills & Tools  
-- **Testing**: Manual Testing, Functional Testing, Usability Testing, API Testing  
-- **Platforms**: Android, iOS, Web, OTT (Roku, Apple TV, Amazon Fire TV)  
-- **Bug Tracking & Reporting**: Jira, PMS, Bugzilla, Good Day, Mantis  
-- **API Testing**: Postman, RestAPI
-- **Agile & Collaboration**: Scrum, Jira, PMS  
+## 🛠 Technical Skills  
+
+### 📌 **Manual Testing**  
+✅ **Mobile, Web & OTT Testing** *(Android, iOS, Web, IPTV, Smart Home, IoT)*  
+✅ **Black Box & White Box Testing**  
+✅ **Cross-Platform Testing** *(Devices, Browsers, OS)*  
+✅ **User Acceptance Testing (UAT), Regression Testing, Performance Testing*  
+✅ **API Testing** *(Postman, REST APIs, Charles Proxy)*  
+
+### 📌 **Test Management & Bug Tracking**  
+✅ **Bug Reporting & Tracking** *(Jira, PMS, Mantis, Bugzilla, Good Day)*  
+✅ **Test Documentation** *(HLR, Test Scenarios, Test Cases, Defect Reports)*  
+✅ **Quality Control & Quality Assurance**  
+✅ **Software Testing Life Cycle (STLC) & Software Development Life Cycle (SDLC)**  
+✅ **Test Plan Development**  
+
+### 📌 **Networking & Security Testing**  
+✅ **Router Configuration & Connectivity Testing** *(Wi-Fi, Mesh Networks)*  
+✅ **DPI Security & Network Stability Testing**  
+✅ **Smart Home & IoT Device Testing**  
+
+### 📌 **Development & Tools**  
+✅ **Basic HTML & CSS**  
+✅ **Basic Core Java**  
+✅ **Samsung Test Lab, Lambda Test**  
+✅ **Agile & Waterfall Methodologies**  
+
+---
+
+## 🎯 Soft Skills  
+✔️ **Attention to Detail**  
+✔️ **Collaboration & Communication**  
+✔️ **Problem-Solving & Critical Thinking**  
+✔️ **Time Management & Task Prioritization**  
+✔️ **Analytical & Logical Reasoning**  
+✔️ **Adaptability & Quick Learning**  
+✔️ **Teamwork & Leadership**  
 
 ---
 
@@ -63,8 +94,16 @@ Passionate about **enhancing software quality** and collaborating with developer
 
 ---
 
+## 📜 Certifications  
+🏆 **Software Testing & QA Certification - Tops Technology**  
+🏆 **ISTQB Foundation Level (In Progress)**  
+🏆 **Postman API Testing Certification (In Progress)**  
+
+---
+
 ⭐ **Connect with me:**  
-🔗 [LinkedIn](https://www.linkedin.com/in/neel-shah05)  
+📧 Email: [neelshah6691@gmail.com]  
 📱 WhatsApp: [Click to Chat](https://wa.link/ykcxmd>)  
+🔗 [LinkedIn](https://www.linkedin.com/in/neel-shah05)  
 
 🚀 Looking forward to collaborating on high-quality projects!  
