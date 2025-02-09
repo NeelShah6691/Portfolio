@@ -98,6 +98,7 @@ Passionate about **enhancing software quality** and collaborating with developer
 🏆 **Software Testing & QA Certification - Tops Technology**  
 🏆 **ISTQB Foundation Level (In Progress)**  
 🏆 **Postman API Testing Certification (In Progress)**  
+🏆 **Databases for Developers: Foundations** – Oracle Dev Gym 
 
 ---
 
