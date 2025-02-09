@@ -51,7 +51,7 @@ Passionate about **enhancing software quality** and collaborating with developer
 
 ## 🎓 Education & Certifications  
 - **Software Engineering & QA Certification** | *Tops Technology*
-- - **12th Science (60 percentile rank)**  
+- **12th Science (60 percentile rank)**  
 
 ---
 
