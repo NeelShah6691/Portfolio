@@ -46,7 +46,7 @@ Passionate about **enhancing software quality** and collaborating with developer
 ✅ **Mobile, Web & OTT Testing** *(Android, iOS, Web, IPTV, Smart Home, IoT)*  
 ✅ **Black Box & White Box Testing**  
 ✅ **Cross-Platform Testing** *(Devices, Browsers, OS)*  
-✅ **User Acceptance Testing (UAT), Regression Testing, Performance Testing*  
+✅ *User Acceptance Testing (UAT), Regression Testing, Performance Testing*  
 ✅ **API Testing** *(Postman, REST APIs, Charles Proxy)*  
 
 ### 📌 **Test Management & Bug Tracking**  
