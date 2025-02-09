@@ -3,12 +3,13 @@
   📍 Surat, Gujarat, India | 📧 [neelshah6691@gmail.com] | 🔗 [LinkedIn](https://www.linkedin.com/in/neel-shah05) 
   
   ## 📌 Professional Summary  
+  
+  **I have worked in both service-based and product-based companies, gaining experience in diverse projects and testing methodologies.**
+  
   Experienced **Manual QA Engineer** with **3+ years** of expertise in **mobile, web, OTT, and smart home applications**.  
   Proven ability to ensure high-quality software through **functional, usability, and API testing**.  
   Skilled in bug tracking, test case development, and working in **Agile environments**.  
   Passionate about **enhancing software quality** and collaborating with developers for seamless user experiences.  
-  
-  **I have worked in both service-based and product-based companies, gaining experience in diverse projects and testing methodologies.**
   
   ---
   
