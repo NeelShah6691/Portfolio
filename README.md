@@ -1,4 +1,4 @@
-# 💻 Quality Assurance Engineer | Mobile | Web | OTT | Smart Home | IoT  
+## 💻 [Neel Shah] | Quality Assurance Engineer | Manual Testing | Mobile | Web | OTT | Smart Home | IoT  
 📍 Surat, Gujarat, India | 📧 [neelshah6691@gmail.com] | 🔗 [LinkedIn](https://www.linkedin.com/in/neel-shah05) 
 
 ## 📌 Professional Summary  
@@ -64,6 +64,6 @@ Passionate about **enhancing software quality** and collaborating with developer
 
 ⭐ **Connect with me:**  
 🔗 [LinkedIn](https://www.linkedin.com/in/neel-shah05)  
-📱 WhatsApp: [Click to Chat](https://wa.me/<9428745505>)  
+📱 WhatsApp: [Click to Chat](https://wa.link/ykcxmd>)  
 
 🚀 Looking forward to collaborating on high-quality projects!  
