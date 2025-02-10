@@ -120,7 +120,6 @@
   
   ## 📜 Certifications  
   🏆 **Software Testing & QA Certification - Tops Technology**  
-  🏆 **ISTQB Foundation Level (In Progress)**  
   🏆 **Postman API Testing Certification (In Progress)**  
   🏆 **Databases for Developers: Foundations** – Oracle Dev Gym 
   
