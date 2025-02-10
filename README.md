@@ -92,7 +92,7 @@
   ## 📌 Projects  
   **All apps are products. Client products are hidden due to security reasons.**  
   
-  ### Mobile & OTT App Testing (Live Apps on Play Store & App Store)**  
+  ### Mobile & OTT App Testing (Live Apps on Play Store & App Store)  
   I have tested multiple applications that are currently live on **Google Play Store** and **Apple App Store**.  
   
   #### **📱 Google Play Store Apps**  
