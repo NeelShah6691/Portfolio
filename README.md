@@ -21,7 +21,7 @@
   - Ensure **compatibility and performance** for OTT apps, including **Roku, Apple TV, and Amazon Fire TV**.  
   - Verify **cross-platform compatibility, security, and usability** of software.  
   - Collaborate with developers to **identify, track, and resolve bugs** using **Jira and PMS tools**.  
-  <!--
+
   ---
   
   ### 🔹 QA Specialist  
@@ -30,7 +30,7 @@
   - Conducted **security and performance testing** for **DPI security, network stability, and parental controls**.  
   - Tested **IPTV applications** across **Android TV, web, and mobile devices** for seamless performance.  
   - Utilized **Jira and PMS** for bug tracking and issue resolution in an Agile workflow.  
-  -->
+
   ---
   
   ### 🔹 Manual Tester  
@@ -58,12 +58,11 @@
   ✅ **Quality Control & Quality Assurance**  
   ✅ **Software Testing Life Cycle (STLC) & Software Development Life Cycle (SDLC)**  
   ✅ **Test Plan Development**  
-  <!--
+  
   ### 📌 **Networking & Security Testing**  
   ✅ **Router Configuration & Connectivity Testing** *(Wi-Fi, Mesh Networks)*  
   ✅ **DPI Security & Network Stability Testing**  
   ✅ **Smart Home & IoT Device Testing**  
-  -->
   
   ### 📌 **Development & Tools**  
   ✅ **Basic HTML & CSS**  
@@ -122,7 +121,7 @@
   ## 📜 Certifications  
   🏆 **Software Testing & QA Certification - Tops Technology**  
   🏆 **Postman API Testing Certification (In Progress)**  
-  🏆 **Databases for Developers: Foundations** – Oracle Dev Gym 
+  <!--  🏆 **Databases for Developers: Foundations** – Oracle Dev Gym -->
   
   ---
   
